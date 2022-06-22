@@ -6,6 +6,6 @@ Repository for educational purpose only.
 - __Year:__ 2nd Semester of 2nd Year
 - __My Grade:__ 19
 
-# ES project
+## ES project
 - [Project](project/README.md) 
 - __Project Grade:__ 18.9
