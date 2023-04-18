@@ -8,4 +8,4 @@ Repository for educational purpose only.
 
 ## ES project
 - [Project](project/README.md) 
-- __Project Grade:__ 18.9
+  - __Project Grade:__ 18.9
